@@ -38,4 +38,7 @@ ul {
     flex: 1;
 }
 .transparente {color: rgb(24, 157, 235) }
-body {margin-right: 20px; margin-left: 20px;}
+body {
+    margin-left: 160px;
+    margin-right: 160px;
+}
