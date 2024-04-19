@@ -1,24 +1,14 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box
-}
-
 h1 {
-    background-color:  darkslateblue;
+    background-color:  rgb(99, 138, 184);
     color: floralwhite;
-    font-size: 24;
+    font-size: 48;
     text-align: center;
 }
 
 h2 {
-    background-color: rgb(64, 50, 78);
+    background-color: rgb(135, 181, 192);
     color: white;
-    font-size: 12px;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    font-size: 32px;
     text-align: center;
 }
 
@@ -28,9 +18,13 @@ h3 {
 }
 
 body {
-    background-color: lightslategray;
+    background-color: rgb(159, 207, 255);
 }
 
 ol {
     text-align: center;
+}
+p {
+    color: rgb(99, 138, 184);
+    background-color: rgb(99, 138, 184);
 }
